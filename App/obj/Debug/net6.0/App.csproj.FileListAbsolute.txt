@@ -1,0 +1,15 @@
+/home/yago/Documentos/codes/dotineti/Exercise_Triangle/App/bin/Debug/net6.0/App
+/home/yago/Documentos/codes/dotineti/Exercise_Triangle/App/bin/Debug/net6.0/App.deps.json
+/home/yago/Documentos/codes/dotineti/Exercise_Triangle/App/bin/Debug/net6.0/App.runtimeconfig.json
+/home/yago/Documentos/codes/dotineti/Exercise_Triangle/App/bin/Debug/net6.0/App.dll
+/home/yago/Documentos/codes/dotineti/Exercise_Triangle/App/bin/Debug/net6.0/App.pdb
+/home/yago/Documentos/codes/dotineti/Exercise_Triangle/App/obj/Debug/net6.0/App.csproj.AssemblyReference.cache
+/home/yago/Documentos/codes/dotineti/Exercise_Triangle/App/obj/Debug/net6.0/App.GeneratedMSBuildEditorConfig.editorconfig
+/home/yago/Documentos/codes/dotineti/Exercise_Triangle/App/obj/Debug/net6.0/App.AssemblyInfoInputs.cache
+/home/yago/Documentos/codes/dotineti/Exercise_Triangle/App/obj/Debug/net6.0/App.AssemblyInfo.cs
+/home/yago/Documentos/codes/dotineti/Exercise_Triangle/App/obj/Debug/net6.0/App.csproj.CoreCompileInputs.cache
+/home/yago/Documentos/codes/dotineti/Exercise_Triangle/App/obj/Debug/net6.0/App.dll
+/home/yago/Documentos/codes/dotineti/Exercise_Triangle/App/obj/Debug/net6.0/refint/App.dll
+/home/yago/Documentos/codes/dotineti/Exercise_Triangle/App/obj/Debug/net6.0/App.pdb
+/home/yago/Documentos/codes/dotineti/Exercise_Triangle/App/obj/Debug/net6.0/App.genruntimeconfig.cache
+/home/yago/Documentos/codes/dotineti/Exercise_Triangle/App/obj/Debug/net6.0/ref/App.dll
